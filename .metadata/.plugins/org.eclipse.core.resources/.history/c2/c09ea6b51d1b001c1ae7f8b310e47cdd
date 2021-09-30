@@ -1,0 +1,4 @@
+<h1> Corona Virus Tracker </h1>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<p th:text = "#{testname}" />

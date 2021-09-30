@@ -1,0 +1,5 @@
+package com.vishu.coronavirustracker.controllers;
+
+public class HomeController {
+
+}

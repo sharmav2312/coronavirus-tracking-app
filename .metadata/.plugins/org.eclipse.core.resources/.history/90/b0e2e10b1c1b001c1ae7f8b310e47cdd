@@ -1,0 +1,13 @@
+package com.vishu.coronavirustracker.controllers;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class HomeController {
+	
+	public String showCoronaVirusData() {
+		
+		return "home";
+	}
+
+}
